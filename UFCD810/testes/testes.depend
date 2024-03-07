@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1707396904 source:c:\users\breno lucena\onedrive\documentos\workspace\c programs\iefp_curso_prog\ufcd810\testes\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+

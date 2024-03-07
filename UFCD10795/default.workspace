@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="Jogo_da_velha/Jogo_da_velha.cbp" />
+		<Project filename="Jogo_da_velha_1player/Jogo_da_velha_1player.cbp" />
+		<Project filename="Jogo_da_velha_1p_expert/Jogo_da_velha_1p_expert.cbp" />
+		<Project filename="Jogo_da_velha_1.1/Jogo_da_velha_1.1.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

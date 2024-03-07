@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="revisao/revisao.cbp" />
+		<Project filename="ficheiros/ficheiros.cbp" />
+		<Project filename="ListaCompras/ListaCompras.cbp" />
+		<Project filename="../../LabProg_UAb/AF2_Vendas/AF2_Vendas.cbp" />
+		<Project filename="testes/testes.cbp" />
+		<Project filename="ListaContatos/ListaContatos.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

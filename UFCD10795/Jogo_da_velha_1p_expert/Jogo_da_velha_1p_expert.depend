@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1706285326 source:c:\users\breno lucena\onedrive\documentos\workspace\c programs\iefp_curso_prog\ufcd10795\jogo_da_velha_1p_expert\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
