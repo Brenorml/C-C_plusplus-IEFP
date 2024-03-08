@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1690912930 source:c:\users\breno lucena\onedrive\documentos\workspace\c programs\labprog_uab\galo_versao4\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1690914620 source:c:\users\breno lucena\onedrive\documentos\workspace\c programs\iefp_curso_prog\ufcd 0811\galo_versao4\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
