@@ -8,7 +8,7 @@
 ### UFCD-0811 - ANÁLISE DE SISTEMAS
 ### UFCD-10795 - SEGURANÇA NO DESENVOLMENTO DE SOFTWARE
 
-Aplicavitos desenvolvidos durante as disciplinas UFCD0806, UFCD0809, UFCD0810, UFCD0811 e UFCD10795 no curso técnico de programação do IEFP.
+Aplicativos desenvolvidos durante as disciplinas UFCD0806, UFCD0809, UFCD0810, UFCD0811 e UFCD10795 no curso técnico de programação do IEFP.
 
 ### Linguagens:
 
